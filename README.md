@@ -7,9 +7,6 @@
 + 📂 Organized Structure: Each directory is carefully organized to keep things neat and easy to navigate. Whether it’s for a side 
   project, a tool, or a quick script, everything has its place. 🗂️
 
-+ 💾 Version Control: I track and manage different versions of my work using Git, so I can easily revert to previous versions or 
-  explore new changes over time. 🔄
-
 + 🔒 Security: Since this is a private repo, all sensitive data, credentials, and information stay securely tucked away. No 
   unauthorized access—just me and my code. 🛡️🔑
 
