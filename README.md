@@ -1,14 +1,11 @@
 ## Python
 
-+ 🚀 Private Git Repository 🔐
++ 🚀 Public Git Repository 🔐
   This is my personal space for coding experiments, projects, and prototypes that I’m working on. It's where I build and refine my 
   ideas in peace, without worrying about public visibility. 🧑‍💻💡
 
 + 📂 Organized Structure: Each directory is carefully organized to keep things neat and easy to navigate. Whether it’s for a side 
   project, a tool, or a quick script, everything has its place. 🗂️
-
-+ 🔒 Security: Since this is a private repo, all sensitive data, credentials, and information stay securely tucked away. No 
-  unauthorized access—just me and my code. 🛡️🔑
 
 + ⚙️ Development in Progress: Some of the code is a work in progress, and others might be complete. Either way, it’s where I push my 
   ideas forward. Expect regular commits, minor fixes, and continuous improvements. 🔧🔄
